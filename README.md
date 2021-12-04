@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahmanwole
 - 👀 I’m interested in designing and creation of mobile applications
-- 🌱 I’m currently learning fluuter 
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on istagram @rahmanwole
 
